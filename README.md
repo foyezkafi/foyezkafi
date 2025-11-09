@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/foyez kafi" target="https://www.linkedin.com/in/foyezkafi/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="foyez kafi" height="30" width="40" /></a>
-<a href="https://fb.com/foyez kafi" target="https://www.facebook.com/foyez.kafi"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="foyez kafi" height="30" width="40" /></a>
+<a href="https://fb.com/foyez kafi" target="[https://www.facebook.com/foyez.kafi](https://www.facebook.com/share/1HJ7TdCwof/)"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="foyez kafi" height="30" width="40" /></a>
 <a href="https://instagram.com/foyez kafi" target="https://www.instagram.com/foyez_kafi/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="foyez kafi" height="30" width="40" /></a>
 </p>
 
