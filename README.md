@@ -1,13 +1,18 @@
 #  Welcome to my GitHub account! ✨  
 
- - Frontend Dev | Learning Backend | MERN Stack in Progress 🙌
+ - Frontend Dev | Learning Backend | Full Stack in Progress 🙌
 
 
-- 🌱 Exploring *React, Next.js, and Node.js*  
-- 🎯 Goal: Become a *Professional Full Stack Developer & Freelancer*
-- 🚀 Dream: To build impactful products & inspire the dev community
-- 🧠 Turning ideas into interactive web solutions
-- 💡 Passionate about *Cyber Security & AI/ML*  
+🔥 Frontend Developer
+- ⚛️ React & Next.js Enthusiast
+- 💻 TypeScript Lover
+- 🎨 Passionate About Clean UI/UX
+- 🌱 Learning Node.js & Express
+- 🚀 Building Modern Web Applications
+- 📚 Continuous Learner
+- 🤝 Open to Collaboration
+- 💼 Available for Freelance Projects
+- 🎯 Goal: Become a Professional Full Stack Developer
 
 
 
