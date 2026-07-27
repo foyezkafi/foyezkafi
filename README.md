@@ -2,7 +2,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:09152B,100:2563EB&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
 </p>
 
+<p align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=1000&lines=FOYEZ+KAFI;FRONTEND+DEVELOPER;REACT.JS+%7C+NEXT.JS;MODERN+WEB+DEVELOPMENT;OPEN+TO+FREELANCE+PROJECTS)](https://git.io/typing-svg)
+
+</p>
 
 ---
 
